@@ -217,6 +217,7 @@ def main(lamda):
     best_rmse = 0
     best_r2 = 0
 
+    # milestones=[200,500]
     # start_epoch = 0
     # resume_epoch = -1 if start_epoch == 0 else start_epoch
     # scheduler = MultiStepLR(optimizer, milestones=milestones, gamma=0.1, last_epoch=resume_epoch)
@@ -248,8 +249,8 @@ def main(lamda):
             best_r2 = net.measure['r2'][-1]
             best_pdcounts = pd_counts
             best_gtcounts = gt_counts
-
         # scheduler.step()
+
     fig = plt.figure(figsize=(16, 9))
     ax1 = fig.add_subplot(2, 2, 1)
     ax1.plot(net.train_loss['epoch_loss'], label='train loss', color='tab:blue')
