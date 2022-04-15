@@ -33,5 +33,5 @@ H. Lu, L. Liu, Y.-N. Li, X.-M. Zhao, X.-Q. Wang, and Z.-G. Cao, “Tasselnetv3: 
 ![](https://github.com/wliu374/Plant_Counting/blob/main/figures/figure1.PNG)
 
 ## How to use
-The concrete introduction of the repository is in the tutorial pdf document.
+The concrete introduction of the repository is in [Tutorial]()
 
