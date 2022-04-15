@@ -16,7 +16,8 @@ Crop stand count plays an important role in modern agriculture as a reference fo
 * 124 maize plots with 4864 × 3648 resolution
 * stand counts range 53 to 102
 * acquired by Phantom 4 Pro V2.0 at 12 m above ground level(AGL)
-
+![](https://github.com/wliu374/Plant_Counting/blob/main/figures/Fig.3.PNG)<br><br>
+![](https://github.com/wliu374/Plant_Counting/blob/main/figures/Fig.4.PNG)
 ## Comparison
 IntegrateNet is created based on TasselNet versions. <br> <br>
 H. Lu, L. Liu, Y.-N. Li, X.-M. Zhao, X.-Q. Wang, and Z.-G. Cao, “Tasselnetv3: Explainable plant counting with guided upsampling and background suppression,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1–15, 2021.  <br><r>
@@ -30,7 +31,7 @@ H. Lu, L. Liu, Y.-N. Li, X.-M. Zhao, X.-Q. Wang, and Z.-G. Cao, “Tasselnetv3: 
 | TasselNetV3-Seg‡ | 3.56 | 4.93 | 0.8027 |
   
 ## Results
-![](https://github.com/wliu374/Plant_Counting/blob/main/figures/figure1.PNG)
+![](https://github.com/wliu374/Plant_Counting/blob/main/figures/figure3.PNG)
 
 ## How to use
 The concrete introduction of the repository is in [Tutorial](https://github.com/wliu374/Plant_Counting/blob/main/Tutorial.pdf).
