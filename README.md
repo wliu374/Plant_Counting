@@ -11,3 +11,8 @@ Crop stand count plays an important role in modern agriculture as a reference fo
 
 ## Structure
 ![](https://github.com/wliu374/Plant_Counting/blob/main/structure.png) 
+
+## Dataset
+* 124 maize plots with 4864 × 3648 resolution
+* stand counts range 53 to 102
+* acquired by Phantom 4 Pro V2.0 at 12 m above ground level(AGL)
