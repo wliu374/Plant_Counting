@@ -22,9 +22,15 @@ H. Lu, L. Liu, Y.-N. Li, X.-M. Zhao, X.-Q. Wang, and Z.-G. Cao, “Tasselnetv3: 
 ![](https://github.com/wliu374/Plant_Counting/blob/main/figures/Fig.4.PNG)
 
 ## Results
+![](https://github.com/wliu374/Plant_Counting/blob/main/figures/ScatterPlot.PNG)<br>
 ![](https://github.com/wliu374/Plant_Counting/blob/main/figures/figure1.PNG)<br>
 ![](https://github.com/wliu374/Plant_Counting/blob/main/figures/figure2.PNG)
-
+|  Model   | MAE  | RMSE | R<sup>2</sup>|
+|  ----  | ----  |  ----  | ----  |
+| IntegrateNet  | 1.62 |2.28  | 0.9578 |
+| TasselNetV3-Lite | 2.39 |3.69  | 0.8893 |
+| TasselNetV3-Seg† | 3.06 |4.64  | 0.8248 |
+|TasselNetV3-Seg‡  | 3.56 |4.93  | 0.8027 |
 ## How to use
 The concrete introduction of the repository is in [Tutorial](https://github.com/wliu374/Plant_Counting/blob/main/Tutorial.pdf).
 
