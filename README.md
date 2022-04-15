@@ -19,7 +19,7 @@ Crop stand count plays an important role in modern agriculture as a reference fo
 ![](https://github.com/wliu374/Plant_Counting/blob/main/figures/Fig.3.PNG)<br>
 ![](https://github.com/wliu374/Plant_Counting/blob/main/figures/Fig.4.PNG)
 ## Comparison
-IntegrateNet is created based on TasselNet versions. <br> <br>
+IntegrateNet is created based on TasselNet versions. <br> 
 H. Lu, L. Liu, Y.-N. Li, X.-M. Zhao, X.-Q. Wang, and Z.-G. Cao, “Tasselnetv3: Explainable plant counting with guided upsampling and background suppression,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1–15, 2021.  <br><r>
 ![](https://github.com/wliu374/Plant_Counting/blob/main/scatterplot.png) 
   
